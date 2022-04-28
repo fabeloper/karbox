@@ -19,3 +19,7 @@ The Karbox is supposed to be assembled with a Brook Fighting board that have an 
 The connection is soldered, maybe you can desing some double side PCB or something like that, we prefer soldering with this https://www.thingiverse.com/thing:4951061
 
 ![Wiring](https://cdn.thingiverse.com/assets/cd/55/91/6f/50/large_display_wires.jpg "Wiring").
+
+Art can be interchangeable, you have to put on plate and art small magnets https://www.amazon.es/dp/B078W1VY1T?ref_=cm_sw_r_cp_ud_dp_SSCSK3G7ZDKYRJVQQZX5
+
+You can see an example here: https://twitter.com/faabi_ss/status/1486625982748442627?s=20&t=FZC2LtJE4uyUFAB1qFtsVQ
