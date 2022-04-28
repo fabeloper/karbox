@@ -16,7 +16,10 @@ The project contains 4 different partsÑ
 - Art
 
 # How to
-The Karbox is supposed to be assembled with a Brook Fighting board that have an easy connection (Audio, PS4 Plus, Universal...) https://www.brookaccessory.com/Fighting%20Board/list.html
+The Karbox is supposed to be assembled with a Brook Fighting board that have an easy connection (Audio, PS4 Plus, XBOX...)
+UNIVERSAL HAVE DIFFERENT USB PORT PLACEMENT, IS IN THE MIDDLE, BE AWARE!!
+
+https://www.brookaccessory.com/Fighting%20Board/list.html
 
 The connection is soldered, maybe you can desing some double side PCB or something like that, we prefer soldering with this https://www.thingiverse.com/thing:4951061
 
