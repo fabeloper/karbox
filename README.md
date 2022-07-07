@@ -1,7 +1,7 @@
 # Karbox
 3D printed small hitbox
 
-Follow us on Twitter! https://twitter.com/Karbox_
+Follow us on Twitter! [https://twitter.com/Karbox_](https://twitter.com/Karbox_)
 
 # Introduction
 This repository contains the 3D models to create a Karbox: 
